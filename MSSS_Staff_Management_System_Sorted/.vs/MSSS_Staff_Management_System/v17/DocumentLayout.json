@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System_Sorted.csproj|c:\\users\\benja\\desktop\\data structures at3\\msss_staff_management\\msss_staff_management\\msss_staff_management_system_sorted\\msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System_Sorted.csproj|solutionrelative:msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System_Sorted.csproj|c:\\users\\benja\\desktop\\data structures at3\\msss_staff_management\\msss_staff_management\\msss_staff_management_system_sorted\\msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System_Sorted.csproj|solutionrelative:msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\MSSS_Staff_Management_System\\Admin.cs",
+              "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\Admin.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\MSSS_Staff_Management_System\\Admin.cs",
+              "RelativeToolTip": "MSSS_Staff_Management_System\\Admin.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA0wE4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:53:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\MSSS_Staff_Management_System\\Admin.cs",
+              "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\Admin.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\Admin.cs [Design]",
+              "RelativeToolTip": "..\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-31T05:47:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "General.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\MSSS_Staff_Management_System\\General.cs",
+              "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\General.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\MSSS_Staff_Management_System\\General.cs",
+              "RelativeToolTip": "MSSS_Staff_Management_System\\General.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:47:59.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "General.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System_Sorted\\MSSS_Staff_Management_System\\General.cs",
+              "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\General.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\General.cs [Design]",
+              "RelativeToolTip": "..\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\General.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-31T05:47:08.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
