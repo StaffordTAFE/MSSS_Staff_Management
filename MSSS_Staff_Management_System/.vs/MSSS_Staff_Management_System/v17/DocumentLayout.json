@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|c:\\users\\benja\\desktop\\data structures at3\\msss_staff_management\\msss_staff_management\\msss_staff_management_system\\msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|c:\\users\\benja\\desktop\\data structures at3\\msss_staff_management\\msss_staff_management\\msss_staff_management_system\\msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|c:\\users\\benja\\desktop\\data structures at3\\msss_staff_management\\msss_staff_management\\msss_staff_management_system\\msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B896134F-3840-49A3-B6E9-2FEA0D3C38CD}|MSSS_Staff_Management_System\\MSSS_Staff_Management_System.csproj|solutionrelative:msss_staff_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\Admin.cs",
               "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\Admin.cs",
               "ToolTip": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\Admin.cs",
               "RelativeToolTip": "MSSS_Staff_Management_System\\Admin.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowFgAAAAAAAAA",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAYwHYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T03:08:06.361Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Admin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\Admin.cs",
               "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\Admin.cs",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "General.cs",
               "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\General.cs",
               "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\General.cs",
               "ToolTip": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\General.cs",
               "RelativeToolTip": "MSSS_Staff_Management_System\\General.cs",
-              "ViewState": "AQIAANEAAAAAAAAAAAAqwN0AAAAAAAAA",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAUwNIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T10:00:53.023Z",
               "IsPinned": true,
@@ -70,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "General.cs [Design]",
               "DocumentMoniker": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\General.cs",
               "RelativeDocumentMoniker": "MSSS_Staff_Management_System\\General.cs",
               "ToolTip": "C:\\Users\\benja\\Desktop\\Data Structures AT3\\MSSS_Staff_Management\\MSSS_Staff_Management\\MSSS_Staff_Management_System\\MSSS_Staff_Management_System\\General.cs [Design]",
               "RelativeToolTip": "MSSS_Staff_Management_System\\General.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T09:58:48.221Z",
               "IsPinned": true
             }

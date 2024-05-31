@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MSSS_Staff_Management_System_Sorted/1.0.0": {
+        "runtime": {
+          "MSSS_Staff_Management_System_Sorted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MSSS_Staff_Management_System_Sorted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
